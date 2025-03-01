@@ -1,38 +1,42 @@
 <div align="center">
 <h2>
-Navigate through Enigmatic Labyrinth
-    
-A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future
+From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems
 </h2>
 </div>
 
 <div align="center">
-<b>Zheng Chu</b><sup>1∗</sup>,
-<b>Jingchang Chen</b><sup>1∗</sup>,
-<b>Qianglong Chen</b><sup>2∗</sup>,
-<b>Weijiang Yu</b><sup>2</sup>,
-<b>Tao He</b><sup>1</sup>,
-<b>Haotian Wang</b><sup>1</sup>,
-<b>Weihua Peng</b><sup>2</sup>,
-<b>Ming Liu</b><sup>1†</sup>,
-<b>Bing Qin</b><sup>1</sup>,
-<b>Ting Liu</b><sup>1</sup>
+<b>Zekun Zhou</b><sup>1</sup>,
+<b>Xiaocheng Feng</b><sup>1†,2</sup>,
+<b>Lei Huang</b><sup>1</sup>,
+<b>Xiachong Feng</b><sup>3</sup>,
+<b>Ziyun Song</b><sup>1</sup>,
+<b>Ruihan Chen</b><sup>1</sup>,
+<b>Liang Zhao</b><sup>1</sup>,
+<b>Weitao Ma</b><sup>1</sup>,
+<b>Yuxuan Gu</b><sup>1</sup>,
+<b>Baoxin Wang</b><sup>4</sup>,
+<b>Dayong Wu</b><sup>4</sup>,
+<b>Guoping Hu</b><sup>4</sup>,
+<b>Ting Liu</b><sup>1,2</sup>,
+<b>Bing Qin</b><sup>1,2</sup>
 </div>
 
 <div align="center">
-<sup>1</sup>Harbin Institute of Technology, Harbin, China
+<sup>1</sup>Harbin Institute of Technology, Harbin, China &nbsp
+<sup>2</sup>Peng Cheng Laboratory, Shenzhen, China
 </div>
 <div align="center">
-<sup>2</sup>Huawei Inc., Shenzhen, China
+<sup>3</sup>The University of Hong Kong, China &nbsp
+<sup>4</sup>iFLYTEK Research, China
 </div>
 
 <br />
 
 <div align="center">
-    <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/ACL-2024-b31b1b.svg" alt="Paper"></a>
+    <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/ACL-2024-b31b1b.svg" alt="Paper"></a> -->
     <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a> -->
-    <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zchuz/CoT-Reasoning-Survey?color=blue" alt="Github"></a>
-    <a href="https://github.com/zchuz/CoT-Reasoning-Survey/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/CoT-Reasoning-Survey?color=green"> </a>
+    <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zkzhou126/AI-for-Research?color=blue" alt="Github"></a>
+    <a href="https://github.com/zkzhou126/AI-for-Research/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zkzhou126/AI-for-Research?color=green"> </a>
 </div>
 
 This repository contains the resources for **ACL 2024** paper **_Navigate through Enigmatic Labyrinth, A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
