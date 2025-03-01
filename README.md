@@ -32,6 +32,7 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
 
 <br />
 
+<!-- 待修改 论文链接-->
 <div align="center">
     <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/ACL-2024-b31b1b.svg" alt="Paper"></a> -->
     <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a> -->
@@ -41,9 +42,11 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
 
 This repository contains the resources for paper **_From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems_**
 
+![overview](figure/overview.png)
 ![taxonomy](figure/taxonomy.png)
 
-For more details, please refer to the paper: [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://doi.org/10.48550/arXiv.2309.15402).
+<!-- 待修改 添加论文链接 -->
+For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems]().
 
 ## 🎉 Updates
 
