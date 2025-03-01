@@ -48,17 +48,16 @@ This repository contains the resources for paper **_From Hypothesis to Publicati
 <!-- 待修改 添加论文链接 -->
 For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems]().
 
-## 🎉 Updates
+
+<!-- ## 🎉 Updates
 
 - 2024/06/03 This paper is accepted to ACL2024, camera ready version released.
 - 2023/10/17 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
 - 2023/10/15 We have updated 44 papers in the reading list, and the v2 paper is on its way.
 - 2023/09/27 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
-- 2023/09/22 We created this reading list repository.
+- 2023/09/22 We created this reading list repository. -->
 
-We use the 💡 icon to identify articles that have been added since the last version of the paper
-
-This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zchu@ir.hit.edu.cn).
+<!-- This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zkzhou@ir.hit.edu.cn). -->
 
 
 ## 🎁 Resources
