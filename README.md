@@ -39,7 +39,7 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
     <a href="https://github.com/zkzhou126/AI-for-Research/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zkzhou126/AI-for-Research?color=green"> </a>
 </div>
 
-This repository contains the resources for **ACL 2024** paper **_Navigate through Enigmatic Labyrinth, A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
+This repository contains the resources for paper **_From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems_**
 
 ![taxonomy](figure/taxonomy.png)
 
@@ -444,7 +444,7 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 - **CoT-BERT: Enhancing Unsupervised Sentence Representation through Chain-of-Thought**, arXiv.2309.11143 [[paper](https://doi.org/10.48550/arXiv.2309.11143)] 💡
 - **Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13615)] 💡
 
-## 📝 Citation
+<!-- ## 📝 Citation
 
 If you find our work helpful, you can cite this paper as:
 
@@ -457,7 +457,7 @@ If you find our work helpful, you can cite this paper as:
     year={2024},
     url={https://arxiv.org/abs/2309.15402}
 }
-```
+``` -->
 
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zkzhou126/AI-for-Research&type=Date)
