@@ -63,9 +63,9 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 ## 🎁 Resources
 
 ### Background
-- **An Interdisciplinary Outlook on Large Language Models for Scientific Research**, arXiv.2311.04929[[paper](https://doi.org/10.48550/arXiv.2311.04929)]
+- **An Interdisciplinary Outlook on Large Language Models for Scientific Research**, arXiv.2311.04929 [[paper](https://doi.org/10.48550/arXiv.2311.04929)]
 - 
-
+<!-- 
 ### Surveys
 
 - **A Survey of Deep Learning for Mathematical Reasoning**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.817)]
@@ -448,7 +448,7 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 - **Ask Me Anything: A simple strategy for prompting language models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=bhUPJnS2g0X)]
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**, ICLR 2023 [[paper](https://proceedings.mlr.press/v202/shi23a.html)]
 - **CoT-BERT: Enhancing Unsupervised Sentence Representation through Chain-of-Thought**, arXiv.2309.11143 [[paper](https://doi.org/10.48550/arXiv.2309.11143)] 💡
-- **Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13615)] 💡
+- **Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13615)] 💡 -->
 
 <!-- ## 📝 Citation
 
@@ -466,4 +466,4 @@ If you find our work helpful, you can cite this paper as:
 ``` -->
 
 
-![Star History Chart](https://api.star-history.com/svg?repos=zkzhou126/AI-for-Research&type=Date)
+<!-- ![Star History Chart](https://api.star-history.com/svg?repos=zkzhou126/AI-for-Research&type=Date) -->
