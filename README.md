@@ -62,26 +62,45 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ## 🎁 Resources
 
-### Background
+### Backgrounds
+- **Could AI help you to write your next paper?** Nature 2022, [[paper](https://www.nature.com/articles/d41586-022-03479-w)]
+- **Algorithmic ghost in the research shell: Large language models and academic knowledge creation in management research**, arXiv.2303.07304, [[paper]({https://doi.org/10.48550/arXiv.2303.07304)]
+- **Scientists' Perspectives on the Potential for Generative AI in their Fields**, arXiv.2304.01420, [[paper]({https://doi.org/10.48550/arXiv.2304.01420)]
+- **Friend or foe? Exploring the implications of large language models on the science system**, arXiv.2306.09928, [[paper](https://doi.org/10.48550/arXiv.2306.09928)]
 - **An Interdisciplinary Outlook on Large Language Models for Scientific Research**, arXiv.2311.04929 [[paper](https://doi.org/10.48550/arXiv.2311.04929)]
-- 
-<!-- 
+- **Artificial intelligence and illusions of understanding in scientific research**, Nature 2024, [[paper](https://www.nature.com/articles/s41586-024-07146-0)]
+- **Monitoring ai-modified content at scale: A case study on the impact of chatgpt on ai conference peer reviews**, ICML 2024,  [[paper](https://openreview.net/forum?id=bX3J7ho18S)]
+- **Mapping the increasing use of LLMs in scientific papers**, arXiv.2404.01268, [[paper](https://doi.org/10.48550/arXiv.2404.01268)]
+- **LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions**, arXiv.2411.05025, [[paper](https://doi.org/10.48550/arXiv.2411.05025)]
+
+
 ### Surveys
 
-- **A Survey of Deep Learning for Mathematical Reasoning**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.817)]
-- **Reasoning with Language Model Prompting: A Survey**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.294)]
-- **A Survey for In-context Learning**, arXiv.2301.00234 [[paper](https://doi.org/10.48550/arXiv.2301.00234)]
-- **A Survey of Large Language Models**, arXiv.2303.18223 [[paper](https://doi.org/10.48550/arXiv.2303.18223)]
-- **Nature Language Reasoning, A Survey**, arXiv.2303.14725 [[paper](https://doi.org/10.48550/arXiv.2303.14725)]
-- **A Survey on Evaluation of Large Language Models**, arXiv.2307.03109 [[paper](https://doi.org/10.48550/arXiv.2307.03109)] 💡
-- **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
-- **Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models**, arXiv.2309.01219 [[paper](https://doi.org/10.48550/arXiv.2309.01219)] 💡
-- **Multimodal Foundation Models: From Specialists to General-Purpose Assistants**, arXiv.2309.10020 [[paper](https://doi.org/10.48550/arXiv.2309.10020)] 💡
-- **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv.2310.04959 [[paper](https://doi.org/10.48550/arXiv.2310.04959)] 💡
-- **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv.2310.07521 [[paper](https://doi.org/10.48550/arXiv.2310.07521)] 💡
-- **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities**, arXiv.2311.00237 [[paper](https://arxiv.org/abs/2311.00237)] 💡
-- **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**, arXiv.2311.05232 [[paper](https://arxiv.org/abs/2311.05232)] 💡
+- **LLM4SR: A Survey on Large Language Models for Scientific Research**, arXiv.2501.04306, [[paper](https://doi.org/10.48550/arXiv.2501.04306)]
+- **Paper recommender systems: a literature survey**, International Journal on Digital Libraries 2016, [[paper](https://link.springer.com/article/10.1007/s00799-015-0156-0)]
+- **Scientific paper recommendation: A survey**, IEEE Access 2018, [[paper](https://doi.org/10.1109/ACCESS.2018.2890388)]
+- **Scientific paper recommendation systems: a literature review of recent publications**, International journal on digital libraries 2022, [[paper]({https://doi.org/10.1007/s00799-022-00339-w)]
+- **Automatic summarization of scientific articles: A survey**,  Journal of King Saud University-Computer and Information Sciences 2022, [[paper](https://doi.org/10.1016/j.jksuci.2020.04.020)]
+- **Scientific fact-checking: A survey of resources and approaches**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-acl.387)]
+- **A survey on deep learning for theorem proving**, arXiv.2404.09939, [[paper](https://doi.org/10.48550/arXiv.2404.09939)]
+- **Related work and citation text generation: A survey**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.767)]
+- **Automated scholarly paper review: Concepts, technologies, and challenges**, Information fusion 2023, [[paper](https://doi.org/10.1016/j.inffus.2023.101830)]
+- **Artificial intelligence to support publishing and peer review: A summary and review**, Learned Publishing 2024, [[paper](https://doi.org/10.1002/leap.1570)]
 
+
+### Hypothesis Formulation
+#### Knowledge Synthesis
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+- ****, , [[paper]()]
+
+
+<!-- 
 ### Blogs
 
 - **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources**, Dec 2022, Yao Fu’s Notion [[blog](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
