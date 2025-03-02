@@ -62,6 +62,10 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ## 🎁 Resources
 
+### Background
+- **An Interdisciplinary Outlook on Large Language Models for Scientific Research**, arXiv.2311.04929[[paper](https://doi.org/10.48550/arXiv.2311.04929)]
+- 
+
 ### Surveys
 
 - **A Survey of Deep Learning for Mathematical Reasoning**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.817)]
