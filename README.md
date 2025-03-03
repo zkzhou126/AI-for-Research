@@ -135,16 +135,21 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning**, Machine Learning: Science and Technology 2024, [[paper](https://doi.org/10.1088/2632-2153/ad7228)]
 - **Sciagents: Automating scientific discovery through multi-agent intelligent graph reasoning**, arXiv.2409.05556, [[paper](https://doi.org/10.48550/arXiv.2409.05556)]
 - **Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models**, arXiv.2405.17044, [[paper](https://doi.org/10.48550/arXiv.2405.17044)]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
+- **Hypothesis generation with large language models**, arXiv.2404.04326, [[paper](https://doi.org/10.48550/arXiv.2404.04326)]
+- **Large language models for automated open-domain scientific hypotheses discovery**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.findings-acl.804)]
+- **Researchagent: Iterative research idea generation over scientific literature with large language models**, arXiv.2404.07738, [[paper](https://doi.org/10.48550/arXiv.2404.07738)]
+- **LLM and Simulation as Bilevel Optimizers:
+A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](https://openreview.net/forum?id=hz8cFsdz7P)]
+- **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
+- **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, arXiv.2408.06292, [[paper](https://doi.org/10.48550/arXiv.2408.06292)]
+- **Acceleron: A tool to accelerate research ideation**, arXiv.2403.04382, [[paper](https://doi.org/10.48550/arXiv.2403.04382)]
+- **Sciagents: Automating scientific discovery through multi-agent intelligent graph reasoning**, arXiv.2409.05556, [[paper](https://doi.org/10.48550/arXiv.2409.05556)]
+- **Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation**, arXiv.2410.09403, [[paper](https://doi.org/10.48550/arXiv.2410.09403)]
+- **Nova: An iterative planning and search approach to enhance novelty and diversity of llm generated ideas**, arXiv.2410.14255, [[paper](https://doi.org/10.48550/arXiv.2410.14255)]
+- **Learning to Generate Research Idea with Dynamic Control**, arXiv.2412.14626, [[paper](https://doi.org/10.48550/arXiv.2412.14626)]
+
+### Hypothesis Validation
+#### Scientific Claim Verification
 - ****, , [[paper]()]
 
 
