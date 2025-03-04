@@ -35,7 +35,7 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
 <!-- 待修改 论文链接-->
 <div align="center">
     <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/ACL-2024-b31b1b.svg" alt="Paper"></a> -->
-    <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a> -->
+    <a href="https://arxiv.org/abs/2503.01424"><img src="https://img.shields.io/badge/arXiv-2503.01424-b31b1b.svg" alt="Paper"></a>
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zkzhou126/AI-for-Research?color=blue" alt="Github"></a>
     <a href="https://github.com/zkzhou126/AI-for-Research/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zkzhou126/AI-for-Research?color=green"> </a>
 </div>
@@ -46,7 +46,7 @@ This repository contains the resources for paper **_From Hypothesis to Publicati
 ![taxonomy](figure/taxonomy.png)
 
 <!-- 待修改 添加论文链接 -->
-For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems]().
+For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424).
 
 
 <!-- ## 🎉 Updates
@@ -176,9 +176,11 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **The state of human-centered NLP technology for fact-checking**, Information processing & management 2023, [[paper](https://doi.org/10.1016/j.ipm.2022.103219)]
 - **aedFaCT: Scientific Fact-Checking Made Easier via Semi-Automatic Discovery of Relevant Expert Opinions**, arXiv.2305.07796, [[paper](https://doi.org/10.48550/arXiv.2305.07796)]
 - **Characterizing and Verifying Scientific Claims: Qualitative Causal Structure is All You Need**, EMNLP  2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.828)]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
+
+#### Theorem Proving
+- **Generative language modeling for automated theorem proving**, arXiv.2009.03393, [[paper](https://arxiv.org/abs/2009.03393)]
+- **HyperTree Proof Search for Neural Theorem Proving**, NeurIPS 2022, [[paper](http://papers.nips.cc/paper\_files/paper/2022/hash/a8901c5e85fb8e1823bbf0f755053672-Abstract-Conference.html)]
+- **Dt-solver: Automated theorem proving with dynamic-tree sampling guided by proof-level value function**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.acl-long.706)]
 - ****, , [[paper]()]
 - ****, , [[paper]()]
 - ****, , [[paper]()]
