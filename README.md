@@ -91,6 +91,8 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **A survey on deep learning for theorem proving**, arXiv.2404.09939, [[paper](https://doi.org/10.48550/arXiv.2404.09939)]
 - **Related work and citation text generation: A survey**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.767)]
 - **Automated scholarly paper review: Concepts, technologies, and challenges**, Information fusion 2023, [[paper](https://doi.org/10.1016/j.inffus.2023.101830)]
+- **Evaluating the Predictive Capacity of ChatGPT for Academic Peer Review**, arXiv.2411.09763, [[paper](https://doi.org/10.48550/arXiv.2411.09763)]
+- **What Can Natural Language Processing Do for Peer Review?**, arXiv.2405.06563, [[paper](https://doi.org/10.48550/arXiv.2405.06563)]
 - **Artificial intelligence to support publishing and peer review: A summary and review**, Learned Publishing 2024, [[paper](https://doi.org/10.1002/leap.1570)]
 - **Large language models for scientific synthesis, inference and explanation**, arXiv.2310.07984, [[paper](https://doi.org/10.48550/arXiv.2310.07984)]
 - **A comprehensive survey of scientific large language models and their applications in scientific discovery**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.498)]
@@ -120,6 +122,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **LLMs for Literature Review: Are we there yet?**, arXiv.2412.15249, [[paper](https://doi.org/10.48550/arXiv.2412.15249)]
 - **Automating research synthesis with domain-specific large language model fine-tuning**, arXiv.2404.08680, [[paper](https://doi.org/10.48550/arXiv.2404.08680)]
 - **OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs**, arXiv.2411.14199, [[paper](https://doi.org/10.48550/arXiv.2411.14199)]
+- **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 
 #### Hypothesis Generation
 - **Literature based discovery: models, methods, and trends**, Journal of biomedical informatics 2017, [[paper](https://doi.org/10.1016/j.jbi.2017.08.011)]
@@ -129,7 +132,8 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Can Large Language Models Unlock Novel Scientific Research Ideas?**, arXiv.2409.06185, [[paper](https://doi.org/10.48550/arXiv.2409.06185)]
 - **MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses**, arXiv.2410.07076, [[paper](https://doi.org/10.48550/arXiv.2410.07076)]
 - **IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback**, arXiv.2410.04025, [[paper](https://doi.org/10.48550/arXiv.2410.04025)]
-- **Data-driven discovery with large generative models**, ICML 2024,, [[paper](https://openreview.net/forum?id=5SpjhZNXtt)]
+- **Data-driven discovery with large generative models**, ICML 2024, [[paper](https://openreview.net/forum?id=5SpjhZNXtt)]
+- **DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents**, NeurIPS 2024,[[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/13836f251823945316ae067350a5c366-Abstract-Datasets\_and\_Benchmarks\_Track.html)]
 - **Literature meets data: A synergistic approach to hypothesis generation**, arXiv.2410.17309, [[paper](https://doi.org/10.48550/arXiv.2410.17309)]
 - **SciMON: Scientific Inspiration Machines Optimized for Novelty**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.18)]
 - **Chain of ideas: Revolutionizing research via novel idea development with llm agents**, arXiv.2410.13185, [[paper](https://doi.org/10.48550/arXiv.2410.13185)]
@@ -148,6 +152,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation**, arXiv.2410.09403, [[paper](https://doi.org/10.48550/arXiv.2410.09403)]
 - **Nova: An iterative planning and search approach to enhance novelty and diversity of llm generated ideas**, arXiv.2410.14255, [[paper](https://doi.org/10.48550/arXiv.2410.14255)]
 - **Learning to Generate Research Idea with Dynamic Control**, arXiv.2412.14626, [[paper](https://doi.org/10.48550/arXiv.2412.14626)]
+- **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
 
 ### Hypothesis Validation
@@ -212,34 +217,82 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **Researchagent: Iterative research idea generation over scientific literature with large language models**, arXiv.2404.07738, [[paper](https://doi.org/10.48550/arXiv.2404.07738)]
 - **Training socially aligned language models on simulated social interactions**, ICLR 2024, [[paper](https://openreview.net/forum?id=NddKiWtdUm)]
 - **Automated social science: Language models as scientist and subjects**, arXiv.2404.11794, [[paper](https://arxiv.org/abs/2404.11794)]
+- **AAAR-1.0: Assessing AI's Potential to Assist Research**, arXiv.2410.22394, [[paper](https://doi.org/10.48550/arXiv.2410.22394)]
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
+- **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 
 ### Manuscript Publication
 #### Manuscript Writing
+- **Disencite: Graph-based disentangled representation learning for context-specific citation generation**, AAAI 2022, [[paper](https://doi.org/10.1609/aaai.v36i10.21397)]
+- **Intent-controllable citation text generation**, Mathematics 2022, [[paper](https://www.mdpi.com/2227-7390/10/10/1763)]
+- **Controllable citation sentence generation with language models**, arXiv.2211.07066, [[paper](https://arxiv.org/abs/2211.07066)]
+- **Read, revise, repeat: A system demonstration for human-in-the-loop iterative text revision**, arXiv.2204.03685, [[paper](https://doi.org/10.48550/arXiv.2204.03685)]
+- **Enabling large language models to generate text with citations**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.398)]
+- **Towards a unified framework for reference retrieval and related work generation**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.385)]
+- **SciLit: A platform for joint scientific literature discovery, summarization and citation generation**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.acl-demo.22)]
+- **Exploring the boundaries of reality: investigating the phenomenon of artificial intelligence hallucination in scientific writing through ChatGPT references**, Cureus 2023, [[paper](https://pubmed.ncbi.nlm.nih.gov/37182055/)]
+- **Can artificial intelligence help for scientific writing?**, Critical care 2023, [[paper](https://ccforum.biomedcentral.com/articles/10.1186/s13054-023-04380-2)]
+- **Text revision in scientific writing assistance: An overview**, arXiv.2303.16726, [[paper](https://doi.org/10.48550/arXiv.2303.16726)]
+- **Text revision by on-the-fly representation optimization**, arXiv.2303.16726, [[paper](https://doi.org/10.48550/arXiv.2303.16726)]
+- **A publishing infrastructure for Artificial Intelligence (AI)-assisted academic authoring**, JAMIA 2024, [[paper](https://doi.org/10.1093/jamia/ocae139)]
+- **Automated focused feedback generation for scientific writing assistance**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.findings-acl.580)]
+- **Aries: A corpus of scientific paper edits made in response to peer reviews**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.377)]
+- **Reinforced Subject-Aware Graph Neural Network for Related Work Generation**, KSEM 2024, [[paper](https://doi.org/10.1007/978-981-97-5492-2\_16)]
+- **Toward Structured Related Work Generation with Novelty Statements**, SDP 2024, [[paper](https://aclanthology.org/2024.sdp-1.5/)]
+- **Instruct Large Language Models to Generate Scientific Literature Survey Step by Step**, NLPCC 2024, [[paper](https://doi.org/10.1007/978-981-97-9443-0\_43)]
+- **Techniques for supercharging academic writing with generative AI**, Nature Biomedical Engineering 2024, [[paper](https://www.nature.com/articles/s41551-024-01185-8)]
+- **Reference hallucination score for medical artificial intelligence chatbots: development and usability study**, JMIR Medical Informatics 2024, [[paper](https://medinform.jmir.org/2024/1/e54345)]
+- **Shallow synthesis of knowledge in gpt-generated texts: A case study in automatic related work composition**, arXiv.2402.12255, [[paper](https://doi.org/10.48550/arXiv.2402.12255)]
+- **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, arXiv.2408.06292, [[paper](https://doi.org/10.48550/arXiv.2408.06292)]
+- **Cocoa: Co-Planning and Co-Execution with AI Agents**, arXiv.2412.10999, [[paper](https://doi.org/10.48550/arXiv.2412.10999)]
+- **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
+- **Autonomous LLM-Driven Research—from Data to Human-Verifiable Research Papers**, arXiv.2404.17605, [[paper](https://doi.org/10.48550/arXiv.2404.17605)]
+- **Step-Back Profiling: Distilling User History for Personalized Scientific Writing**, arXiv.2406.14275, [[paper](https://doi.org/10.48550/arXiv.2406.14275)]
+- **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
+
+
+#### Peer Review
+- **Exploiting Labeled and Unlabeled Data via Transformer Fine-tuning for Peer-Review Score Prediction**, EMNLP 2022, [[paper](https://doi.org/10.18653/v1/2022.findings-emnlp.164)]
+- **Can We Automate Scientific Reviewing?**, JAIR 2022, [[paper](https://doi.org/10.1613/jair.1.12862)]
+- **The Quality Assist: A Technology-Assisted Peer Review Based on Citation Functions to Predict the Paper Quality**, IEEE Access 2022, [[paper](https://doi.org/10.1109/ACCESS.2022.3225871)]
+- **KID-Review: Knowledge-Guided Scientific Review Generation with Oracle Pre-training**, AAAI 2022, [[paper](https://doi.org/10.1609/aaai.v36i10.21418)]
+- **Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.472)]
+- **When Reviewers Lock Horn: Finding Disagreement in Scientific Peer Reviews**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.1038)]
+- **Gpt4 is slightly helpful for peer-review assistance: A pilot study**, arXiv.2307.05492, [[paper](https://doi.org/10.48550/arXiv.2307.05492)]
+- **ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing**, arXiv.2306.00622, [[paper](https://doi.org/10.48550/arXiv.2306.00622)]
+- **Unveiling the Sentinels: Assessing AI Performance in Cybersecurity Peer Review**, arXiv.2309.05457, [[paper](https://doi.org/10.48550/arXiv.2309.05457)]
+- **Can large language models provide useful feedback on research papers**, arXiv.2310.01783, [[paper](https://doi.org/10.48550/arXiv.2310.01783)]
+- **Scientific Opinion Summarization: Meta-review Generation with Checklist-guided Iterative Introspection**, arXiv.2305.14647, [[paper](https://doi.org/10.48550/arXiv.2305.14647)]
+- **MetaWriter: Exploring the Potential and Perils of AI Writing Support in Scientific Peer Review**, PACMHCI 2024, [[paper](https://doi.org/10.1145/3637371)]
+- **GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.688)]
+- **Automated Focused Feedback Generation for Scientific Writing Assistance**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.findings-acl.580)]
+- **AgentReview: Exploring Peer Review Dynamics with LLM Agents**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.70)]
+- **A sentiment consolidation framework for meta-review generation**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.547)]
+- **Human-in-the-loop AI reviewing: Feasibility, opportunities, and risks**, JAIS 2024, [[paper](https://aisel.aisnet.org/jais/vol25/iss1/7/)]
+- **RelevAI-Reviewer: A Benchmark on AI Reviewers for Survey Paper Relevance**, arXiv.2406.10294, [[paper](https://doi.org/10.48550/arXiv.2406.10294)]
+- **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, arXiv.2408.06292, [[paper](https://doi.org/10.48550/arXiv.2408.06292)]
+- **MARG: Multi-Agent Review Generation for Scientific Papers**, arXiv.2401.04259, [[paper](https://doi.org/10.48550/arXiv.2401.04259)]
+- **Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions**, arXiv.2406.05688, [[paper](https://doi.org/10.48550/arXiv.2406.05688)]
+- **CycleResearcher: Improving Automated Research via Automated Review**, arXiv.2411.00816, [[paper](https://doi.org/10.48550/arXiv.2411.00816)]
+- **OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews**, arXiv.2412.11948, [[paper](https://doi.org/10.48550/arXiv.2412.11948)]
+- **Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts**, arXiv.2402.15589, [[paper](https://doi.org/10.48550/arXiv.2402.15589)]
+- **PeerArg: Argumentative Peer Review with LLMs**, arXiv.2409.16813, [[paper](https://doi.org/10.48550/arXiv.2409.16813)]
+- **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
+
+
+## 💯 Benchmarks
 - ****, , [[paper]()]
 - ****, , [[paper]()]
 - ****, , [[paper]()]
 - ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
+
+##  🚀 Tools
 
 
 <!-- 
 ### Blogs
 
-- **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources**, Dec 2022, Yao Fu’s Notion [[blog](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
-- **Towards Complex Reasoning: the Polaris of Large Language Models**, May 2023, Yao Fu’s Notion [[blog](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
-- **Prompt Engineering**, March 2023, Lil’Log [[blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
-- **LLM Powered Autonomous Agents**, June 2023, Lil’Log [[blog](https://lilianweng.github.io/posts/2023-06-23-agent/)]
 
-### Projects
-
-- **HqWu-HITCS/Awesome-LLM-Survey**, [[project](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)]
-- **AGI-Edgerunners/LLM-Planning-Papers** [[project](https://github.com/AGI-Edgerunners/LLM-Planning-Papers)]
 
 ## 💯 Benchmarks
 
