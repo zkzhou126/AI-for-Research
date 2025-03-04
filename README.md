@@ -281,13 +281,146 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 
 
 ## 💯 Benchmarks
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
-- ****, , [[paper]()]
+### Research Paper Recommendation
+- **Academic Paper Recommendation Method Combining Heterogeneous Network and Temporal Attributes**, CCSCW 2020, [[paper](https://doi.org/10.1007/978-981-16-2540-4\_33)]
+- **Paper recommend based on LDA and PageRank**, ICAIS 2020, [[paper](https://link.springer.com/chapter/10.1007/978-981-15-8101-4_51)]
+- **A hybrid approach for paper recommendation**,  IEICE TRANS 2021, [[paper](https://search.ieice.org/bin/summary.php?id=e104-d_8_1222)]
+
+### Systematic Literature Review
+- **Bringing structure into summaries: a faceted summarization dataset for long scientific documents**, ACL/IJCNLP 2021, [[paper]({https://doi.org/10.18653/v1/2021.acl-short.137)]
+- **Generating a structured summary of numerous academic papers: Dataset and method**, IJCAI 2022, [[paper](https://doi.org/10.24963/ijcai.2022/591)]
+- **SciReviewGen: a large-scale dataset for automatic literature review generation**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-acl.418)]
+- **Hierarchical catalogue generation for literature review: a benchmark**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.453)]
+- **Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature**, EMNLP 2024, [[paper](https://aclanthology.org/2024.findings-emnlp.516)]
+- **CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.findings-acl.8)]
+- **Overview of the NLPCC2024 Shared Task 6: Scientific Literature Survey Generation**, NLPCC 2024, [[paper](https://doi.org/10.1007/978-981-97-9443-0\_35)]
+- **OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs**, arXiv.2411.14199, [[paper](https://doi.org/10.48550/arXiv.2411.14199)]
+
+### Hypothesis Generation
+- **SciMON: Scientific Inspiration Machines Optimized for Novelty**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.18)]
+- **Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.findings-acl.804)]
+- **MASSW: A new dataset and benchmark tasks for ai-assisted scientific workflows**, arXiv.2406.06357, [[paper](https://doi.org/10.48550/arXiv.2406.06357)]
+- **DiscoveryBench: Towards Data-Driven Discovery with Large Language Models**, arXiv.2407.01725, [[paper](https://doi.org/10.48550/arXiv.2407.01725)]
+- **Can Large Language Models Unlock Novel Scientific Research Ideas?**, arXiv.2409.06185, [[paper](https://doi.org/10.48550/arXiv.2409.06185)]
+- **IdeaBench: Benchmarking Large Language Models for Research Idea Generation**, arXiv.2411.02429, [[paper](https://doi.org/10.48550/arXiv.2411.02429)]
+- **LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Context**, arXiv.2412.17596, [[paper](https://doi.org/10.48550/arXiv.2412.17596)]
+
+### Scientific Claim Verification
+- **FEVER: a Large-scale Dataset for Fact Extraction and VERification**, NAACL-HLT 2018, [[paper]({https://doi.org/10.18653/v1/n18-1074)]
+- **Fact or fiction: Verifying scientific claims**, EMNLP 2020, [[paper](https://doi.org/10.18653/v1/2020.emnlp-main.609)]
+- **Evidence-based Fact-Checking of Health-related Claims**, EMNLP 2021, [[paper](https://doi.org/10.18653/v1/2021.findings-emnlp.297)]
+- **SciFact-Open: Towards open-domain scientific claim verification**, EMNLP 2022, [[paper](https://doi.org/10.18653/v1/2022.findings-emnlp.347)]
+- **SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.483)]
+- **Check-COVID: Fact-Checking COVID-19 News Claims with Scientific Evidence**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-acl.888)]
+- **FactKG: Fact Verification via Reasoning on Knowledge Graphs**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.acl-long.895)]
+- **Missci: Reconstructing Fallacies in Misrepresented Science**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.240)]
+- **MAGIC: Multi-Argument Generation with Self-Refinement for Domain Generalization in Automatic Fact-Checking**, LREC/COLING 2024, [[paper](https://aclanthology.org/2024.lrec-main.951)]
+- **QuanTemp: A real-world open-domain benchmark for fact-checking numerical claims**, SIGIR 2024, [[paper](https://doi.org/10.1145/3626772.3657874)]
+- **HealthFC: Verifying Health Claims with Evidence-Based Medical Fact-Checking**, LREC/COLING 2024, [[paper](https://aclanthology.org/2024.lrec-main.709)]
+- **What Makes Medical Claims (Un)Verifiable? Analyzing Entity and Relation Properties for Fact Verification**, EACL 2024, [[paper](https://aclanthology.org/2024.eacl-long.124)]
+- **Sciriff: A resource to enhance language model instruction-following over scientific literature**, arXiv.2406.07835, [[paper](https://doi.org/10.48550/arXiv.2406.07835)]
+
+### Theorem Proving
+- **Learning to Prove Theorems via Interacting with Proof Assistants**, ICML 2019, [[paper](http://proceedings.mlr.press/v97/yang19a.html)]
+- **miniF2F: a cross-system benchmark for formal Olympiad-level mathematics**, ICLR 2022, [[paper](https://openreview.net/forum?id=9ZPegFuFTFv)]
+- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, NeurIPS 2023, [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets\_and\_Benchmarks.html)]
+- **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.711)]
+- **FIMO: A Challenge Formal Dataset for Automated Theorem Proving**, arXiv.2309.04295, [[paper](https://doi.org/10.48550/arXiv.2309.04295)]
+- **LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN prover**, arXiv.2407.17227, [[paper](https://doi.org/10.48550/arXiv.2407.17227)]
+
+### Experiment Validation
+- **MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation**, ICML 2024, [[paper](https://openreview.net/forum?id=1Fs1LvjYQW)]
+- **TaskBench: Benchmarking Large Language Models for Task Automation**, NeurIPS 2024, [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/085185ea97db31ae6dcac7497616fd3e-Abstract-Datasets\_and\_Benchmarks\_Track.html)]
+- **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**, NeurIPS 2024, [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets\_and\_Benchmarks\_Track.html)]
+- **SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.702)]
+- **LAB-Bench: Measuring Capabilities of Language Models for Biology Research**, arXiv.2407.10362, [[paper](https://doi.org/10.48550/arXiv.2407.10362)]
+- **CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**, arXiv.2409.11363, [[paper](https://doi.org/10.48550/arXiv.2409.11363)]
+- **AAAR-1.0: Assessing AI's Potential to Assist Research**, arXiv.2410.22394, [[paper](https://doi.org/10.48550/arXiv.2410.22394)]
+
+### Manuscript Writing
+- **The ACL anthology network corpus**, Language Resources and Evaluation 2013, [[paper](https://doi.org/10.1007/s10579-012-9211-2)]
+- **ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks**, AAAI 2019, [[paper](https://doi.org/10.1609/aaai.v33i01.33017386)]
+- **DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation**, AAAI 2022, [[paper](https://doi.org/10.1609/aaai.v36i10.21397)]
+- **arXivEdits: Understanding the Human Revision Process in Scientific Writing**, EMNLP 2022, [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.641)]
+- **SciCap+: A Knowledge Augmented Dataset to Study the Challenges of Scientific Figure Captioning**, AAAI 2023, [[paper](https://ceur-ws.org/Vol-3656/paper13.pdf)]
+- **CiteBench: A Benchmark for Scientific Citation Text Generation**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.455)]
+- **Enabling Large Language Models to Generate Text with Citations**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.398)]
+- **CASIMIR: A Corpus of Scientific Articles Enhanced with Multiple Author-Integrated Revisions**, LREC/COLING 2024, [[paper](https://aclanthology.org/2024.lrec-main.257)]
+- **ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction**, WRAICOGS 2025, [[paper](https://aclanthology.org/2025.wraicogs-1.4/)]
+
+### Peer Review
+- **A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications**, NAACL-HLT 2018, [[paper](https://doi.org/10.18653/v1/n18-1149)]
+- **Argument Mining for Understanding Peer Reviews**, NAACL-HLT 2019, [[paper](https://doi.org/10.18653/v1/n19-1219)]
+- **ReAct: A Review Comment Dataset for Actionability (and more)**, WISE 2021, [[paper](https://doi.org/10.1007/978-3-030-91560-5\_24)]
+- **MReD: A Meta-Review Dataset for Structure-Controllable Text Generation**, ACL 2022, [[paper](https://doi.org/10.18653/v1/2022.findings-acl.198)]
+- **Can We Automate Scientific Reviewing?**, JAIR 2022, [[paper](https://doi.org/10.1613/jair.1.12862)]
+- **NLPeer: A Unified Resource for the Computational Study of Peer Review**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.acl-long.277)]
+- **Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.472)]
+- **MOPRD: A multidisciplinary open peer review dataset**, NCA 2023, [[paper](https://doi.org/10.1007/s00521-023-08891-5)]
+- **Scientific opinion summarization: Paper meta-review generation dataset, methods, and evaluation**, IJCAI 2024, [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9536-9_2#citeas)]
+- **ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.377)]
+- **Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions**, arXiv.2406.05688, [[paper](https://doi.org/10.48550/arXiv.2406.05688)]
+
+
 
 ##  🚀 Tools
 
+| Tool Name| Research Paper Recommendation | Systematic Literature Review | Hypothesis Generation | Scientific Claim Verification | Theorem Proving | Experiment Verification | Manuscript Writing | Peer Review | Reading Assistance |
+|------|-------------------------------|------------------------------|-----------------------|-------------------------------|-----------------|-------------------------|--------------------|-------------|--------------------|
+| [Connected Paper](https://www.connectedpapers.com/) | ✓ | | | | | | | | |
+| [Inciteful](https://inciteful.xyz/) | ✓ | | | | | | | | |
+| [Litmaps](https://www.litmaps.com/) | ✓ | | | | | | | | |
+| [Pasa](https://pasa-agent.ai/) | ✓ | | | | | | | | |
+| [Research Rabbit](https://researchrabbitapp.com/) | ✓ | | | | | | | | |
+| [Semantic Scholar](https://www.semanticscholar.org/) | ✓ | | | | | | ✓ | | |
+| [GenGO](https://gengo.sotaro.io/) | ✓ | | | | | | | | ✓ |
+| [Jenni AI](https://jenni.ai/) | ✓ | | | | | | ✓ | | ✓ |
+| [Elicit](https://elicit.com/) | ✓ | ✓ | | | | | | | |
+| [Undermind](https://undermind.ai/home/) | ✓ | ✓ | | | | | | | |
+| [OpenScholar](https://openscholar.allen.ai/) | ✓ | ✓ | | | | | | | |
+| [ResearchBuddies](https://researchbuddy.app/) | ✓ | ✓ | | | | | | | |
+| [Hyperwrite](https://www.hyperwriteai.com/) | ✓ | ✓ | | | | | ✓ | | |
+| [Concensus](https://consensus.app/search/) | ✓ | ✓ | | ✓ | | | | | |
+| [Iris.ai](https://iris.ai/) | ✓ | ✓ | | ✓ | | | | | ✓ |
+| [MirrorThink](https://mirrorthink.ai/) | ✓ | ✓ | | ✓ | | ✓ | | | ✓ |
+| [SciSpace](https://typeset.io/) | ✓ | ✓ | | | | | ✓ | ✓ | ✓ |
+| [AskYourPDF](https://askyourpdf.com) | ✓ | ✓ | | ✓ | | | ✓ | ✓ | ✓ |
+| [Iflytek](https://sciai.las.ac.cn/) | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ | | ✓ |
+| [Enago Read](https://www.read.enago.com/) | ✓ | ✓ | ✓ | ✓ | ✓ | | | | ✓ |
+| [Aminer](https://www.aminer.cn/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | | ✓ |
+| [OpenResearcher](https://github.com/GAIR-NLP/OpenResearcher) | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [ResearchFlow](https://rflow.ai/) | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [You.com](https://you.com/?chatMode=research) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [GPT Researcher](https://gptr.dev/) | | ✓ | | | | | | | |
+| [PICO Portal](https://picoportal.org/) | | ✓ | | | | | | | |
+| [Scinence42:Dora](https://pharma.ai/dora) | | ✓ | | | | | ✓ | | |
+| [STORM](https://storm.genie.stanford.edu/) | | ✓ | | | | | ✓ | | |
+| [ChatDOC](https://chatdoc.com/) | | ✓ | | | | | | | ✓ |
+| [Scite](https://scite.ai/home) | | ✓ | | | | | | | ✓ |
+| [Silatus](https://silatus.com/) | | ✓ | | | | | | | ✓ |
+| [Agent Laboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) | | ✓ | | | | ✓ | ✓ | | |
+| [Sider](https://sider.ai/) | | ✓ | | | | | ✓ | | ✓ |
+| [Quillbot](https://quillbot.com/) | | ✓ | | | | | ✓ | ✓ | ✓ |
+| [Scholar AI](https://scholarai.io/) | | ✓ | | ✓ | | ✓ | ✓ | ✓ | ✓ |
+| [AI Scientist](https://sakana.ai/ai-scientist/) | | | ✓ | | | ✓ | ✓ | ✓ | |
+| [Isabelle](https://isabelle.in.tum.de/) | | | | | ✓ | | | | |
+| [LeanCopilot](https://github.com/lean-dojo/LeanCopilot) | | | | | ✓ | | | | |
+| [Llmstep](https://github.com/wellecks/llmstep) | | | | | ✓ | | | | |
+| [Proverbot9001](https://proverbot9001.ucsd.edu/) | | | | | ✓ | | | | |
+| [chatgpt_academic](https://github.com/ifyz/chatgpt_academic) | | | | | | | ✓ | | |
+| [gpt_academic](https://github.com/binary-husky/gpt_academic) | | | | | | | ✓ | | |
+| [HeadlineAnalyzer](https://coschedule.com/headline-analyzer) | | | | | | | ✓ | | |
+| [Langsmith Editor](https://editor.langsmith.co.jp/) | | | | | | | ✓ | | |
+| [Textero.ai](https://textero.ai/) | | | | | | | ✓ | | |
+| [Wordvice.AI](https://wordvice.ai/) | | | | | | | ✓ | | |
+| [Writesonic](https://writesonic.com/) | | | | | | | ✓ | | |
+| [Writefull](https://x.writefull.com/) | | | | | | | ✓ | ✓ | |
+| [Covidence](https://www.covidence.org/) | | | | | | | | ✓ | |
+| [Penelope.ai](https://www.penelope.ai/) | | | | | | | | ✓ | |
+| [Byte-science](https://byte-science.com/) | | | | | | | | | ✓ |
+| [Cool Papers](https://papers.cool/) | | | | | | | | | ✓ |
+| [Explainpaper](https://www.explainpaper.com/) | | | | | | | | | ✓ |
+| [Uni-finder](https://uni-finder.dp.tech/question) | | | | | | | | | ✓ |
 
 <!-- 
 ### Blogs
