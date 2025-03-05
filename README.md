@@ -40,12 +40,12 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
     <a href="https://github.com/zkzhou126/AI-for-Research/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zkzhou126/AI-for-Research?color=green"> </a>
 </div>
 
-This repository contains the resources for paper **_From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems_**
+This repository contains the resources for paper **_From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems_**, including **related papers**, **benchmarks**, and **tools** that can accelerate research.
 
 ![overview](figure/overview.png)
 ![taxonomy](figure/taxonomy.png)
 
-<!-- 待修改 添加论文链接 -->
+
 For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424).
 
 
@@ -100,6 +100,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ### Hypothesis Formulation
 
+![HypothesisFormulation](figure/HypothesisFormulation.png)
 #### Research Paper Recommendation
 - **From Who You Know to What You Read: Augmenting Scientific Recommendations with Implicit Social Networks**, CHI 2022, [[paper](https://doi.org/10.1145/3491102.3517470)]
 - **Comlittee: Literature discovery with personal elected author committees**, CHI 2023, [[paper](https://doi.org/10.1145/3544548.3581371)]
@@ -156,6 +157,8 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
 
 ### Hypothesis Validation
+
+![HypothesisValidation](figure/HypothesisValidation.png)
 #### Scientific Claim Verification
 - **Fact or fiction: Verifying scientific claims**, EMNLP 2020, [[paper](https://doi.org/10.18653/v1/2020.emnlp-main.609)]
 - **Generating fact checking explanations**, ACL 2020, [[paper](https://doi.org/10.18653/v1/2020.acl-main.656)]
@@ -222,6 +225,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 
 ### Manuscript Publication
+![ManuscriptPublication](figure/ManuscriptPublication.png)
 #### Manuscript Writing
 - **Disencite: Graph-based disentangled representation learning for context-specific citation generation**, AAAI 2022, [[paper](https://doi.org/10.1609/aaai.v36i10.21397)]
 - **Intent-controllable citation text generation**, Mathematics 2022, [[paper](https://www.mdpi.com/2227-7390/10/10/1763)]
@@ -281,6 +285,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 
 
 ## 💯 Benchmarks
+![benchmark](figure/benchmark.png)
 ### Research Paper Recommendation
 - **Academic Paper Recommendation Method Combining Heterogeneous Network and Temporal Attributes**, CCSCW 2020, [[paper](https://doi.org/10.1007/978-981-16-2540-4\_33)]
 - **Paper recommend based on LDA and PageRank**, ICAIS 2020, [[paper](https://link.springer.com/chapter/10.1007/978-981-15-8101-4_51)]
