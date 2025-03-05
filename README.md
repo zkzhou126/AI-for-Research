@@ -32,9 +32,8 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
 
 <br />
 
-<!-- 待修改 论文链接-->
+
 <div align="center">
-    <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/ACL-2024-b31b1b.svg" alt="Paper"></a> -->
     <a href="https://arxiv.org/abs/2503.01424"><img src="https://img.shields.io/badge/arXiv-2503.01424-b31b1b.svg" alt="Paper"></a>
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zkzhou126/AI-for-Research?color=blue" alt="Github"></a>
     <a href="https://github.com/zkzhou126/AI-for-Research/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zkzhou126/AI-for-Research?color=green"> </a>
@@ -49,15 +48,12 @@ This repository contains the resources for paper **_From Hypothesis to Publicati
 For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424).
 
 
-<!-- ## 🎉 Updates
+## 🎉 Updates
 
-- 2024/06/03 This paper is accepted to ACL2024, camera ready version released.
-- 2023/10/17 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
-- 2023/10/15 We have updated 44 papers in the reading list, and the v2 paper is on its way.
-- 2023/09/27 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
-- 2023/09/22 We created this reading list repository. -->
+- 2025/03/03 Paper is available on [arxiv](https://arxiv.org/abs/2503.01424).
+- 2025/03/02 We created this reading list repository.
 
-<!-- This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zkzhou@ir.hit.edu.cn). -->
+
 
 
 ## 🎁 Resources
@@ -430,40 +426,12 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 
 
 
-<!-- 
-### Blogs
-
-
-
-## 💯 Benchmarks
-
-
-
-
-
-## 🔭 Future Prospect
-
-### Multi-modal XoT
-
-
-
-## 🚢 Other works
-
-
 
 <!-- ## 📝 Citation
 
 If you find our work helpful, you can cite this paper as:
 
-```bibtex
-@inproceedings{chuCoTReasoningSurvey2024,
-    title={Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future},
-    author={Zheng Chu and Jingchang Chen and Qianglong Chen and Weijiang Yu and Tao He and Haotian Wang and Weihua Peng and Ming Liu and Bing Qin and Ting Liu},
-    booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics: ACL 2024, Bangkok, Thailand, August 11–16, 2024},
-    publisher={Association for Computational Linguistics},
-    year={2024},
-    url={https://arxiv.org/abs/2309.15402}
-}
+```
 ``` -->
 
 
