@@ -427,12 +427,18 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 
 
 
-<!-- ## 📝 Citation
+## 📝 Citation
 
 If you find our work helpful, you can cite this paper as:
-
 ```
-``` -->
+@article{zhou2025hypothesis,
+  title={From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems},
+  author={Zhou, Zekun and Feng, Xiaocheng and Huang, Lei and Feng, Xiachong and Song, Ziyun and Chen, Ruihan and Zhao, Liang and Ma, Weitao and Gu, Yuxuan and Wang, Baoxin and others},
+  journal={arXiv preprint arXiv:2503.01424},
+  url={https://arxiv.org/abs/2503.01424},
+  year={2025}
+}
+``` 
 
 
 <!-- ![Star History Chart](https://api.star-history.com/svg?repos=zkzhou126/AI-for-Research&type=Date) -->
