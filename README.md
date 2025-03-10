@@ -120,6 +120,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Automating research synthesis with domain-specific large language model fine-tuning**, arXiv.2404.08680, [[paper](https://doi.org/10.48550/arXiv.2404.08680)]
 - **OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs**, arXiv.2411.14199, [[paper](https://doi.org/10.48550/arXiv.2411.14199)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
+- **SurveyX: Academic Survey Automation via Large Language Models**, arXiv.2502.14776,[[paper](https://arxiv.org/abs/2502.14776)]
 
 #### Hypothesis Generation
 - **Literature based discovery: models, methods, and trends**, Journal of biomedical informatics 2017, [[paper](https://doi.org/10.1016/j.jbi.2017.08.011)]
@@ -141,8 +142,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Hypothesis generation with large language models**, arXiv.2404.04326, [[paper](https://doi.org/10.48550/arXiv.2404.04326)]
 - **Large language models for automated open-domain scientific hypotheses discovery**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.findings-acl.804)]
 - **Researchagent: Iterative research idea generation over scientific literature with large language models**, arXiv.2404.07738, [[paper](https://doi.org/10.48550/arXiv.2404.07738)]
-- **LLM and Simulation as Bilevel Optimizers:
-A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](https://openreview.net/forum?id=hz8cFsdz7P)]
+- **LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](https://openreview.net/forum?id=hz8cFsdz7P)]
 - **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, arXiv.2408.06292, [[paper](https://doi.org/10.48550/arXiv.2408.06292)]
 - **Acceleron: A tool to accelerate research ideation**, arXiv.2403.04382, [[paper](https://doi.org/10.48550/arXiv.2403.04382)]
 - **Sciagents: Automating scientific discovery through multi-agent intelligent graph reasoning**, arXiv.2409.05556, [[paper](https://doi.org/10.48550/arXiv.2409.05556)]
@@ -151,6 +151,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **Learning to Generate Research Idea with Dynamic Control**, arXiv.2412.14626, [[paper](https://doi.org/10.48550/arXiv.2412.14626)]
 - **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
+- **Towards an AI co-scientist**, arXiv.2502.18864,[[paper](https://arxiv.org/pdf/2502.18864)]
 
 ### Hypothesis Validation
 
@@ -225,6 +226,8 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 #### Manuscript Writing
 - **Disencite: Graph-based disentangled representation learning for context-specific citation generation**, AAAI 2022, [[paper](https://doi.org/10.1609/aaai.v36i10.21397)]
 - **Intent-controllable citation text generation**, Mathematics 2022, [[paper](https://www.mdpi.com/2227-7390/10/10/1763)]
+- **Understanding Iterative Revision from Human-Written Text**, ACL 2022, [[paper](https://aclanthology.org/2022.acl-long.250/)]
+- **Improving Iterative Text Revision by Learning Where to Edit from Other Revision Tasks**, EMNLP 2022, [[paper](https://aclanthology.org/2022.emnlp-main.678/)]
 - **Controllable citation sentence generation with language models**, arXiv.2211.07066, [[paper](https://arxiv.org/abs/2211.07066)]
 - **Read, revise, repeat: A system demonstration for human-in-the-loop iterative text revision**, arXiv.2204.03685, [[paper](https://doi.org/10.48550/arXiv.2204.03685)]
 - **Enabling large language models to generate text with citations**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.398)]
@@ -232,6 +235,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **SciLit: A platform for joint scientific literature discovery, summarization and citation generation**, ACL 2023, [[paper](https://doi.org/10.18653/v1/2023.acl-demo.22)]
 - **Exploring the boundaries of reality: investigating the phenomenon of artificial intelligence hallucination in scientific writing through ChatGPT references**, Cureus 2023, [[paper](https://pubmed.ncbi.nlm.nih.gov/37182055/)]
 - **Can artificial intelligence help for scientific writing?**, Critical care 2023, [[paper](https://ccforum.biomedcentral.com/articles/10.1186/s13054-023-04380-2)]
+- **Decoding the End-to-end Writing Trajectory in Scholarly Manuscripts**, In2Writing @CHI 2023, [[paper](https://arxiv.org/abs/2304.00121)]
 - **Text revision in scientific writing assistance: An overview**, arXiv.2303.16726, [[paper](https://doi.org/10.48550/arXiv.2303.16726)]
 - **Text revision by on-the-fly representation optimization**, arXiv.2303.16726, [[paper](https://doi.org/10.48550/arXiv.2303.16726)]
 - **A publishing infrastructure for Artificial Intelligence (AI)-assisted academic authoring**, JAMIA 2024, [[paper](https://doi.org/10.1093/jamia/ocae139)]
@@ -348,6 +352,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 - **Enabling Large Language Models to Generate Text with Citations**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.emnlp-main.398)]
 - **CASIMIR: A Corpus of Scientific Articles Enhanced with Multiple Author-Integrated Revisions**, LREC/COLING 2024, [[paper](https://aclanthology.org/2024.lrec-main.257)]
 - **ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction**, WRAICOGS 2025, [[paper](https://aclanthology.org/2025.wraicogs-1.4/)]
+- **SCHOLAWRITE: A Dataset of End-to-End Scholarly Writing Process**, arXiv.2502.02904, [[paper](https://arxiv.org/pdf/2502.02904)]
 
 ### Peer Review
 - **A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications**, NAACL-HLT 2018, [[paper](https://doi.org/10.18653/v1/n18-1149)]
@@ -394,6 +399,7 @@ A New Paradigm to Advance Physical Scientific Discovery**, ICML 2024, [[paper](h
 | [You.com](https://you.com/?chatMode=research) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [GPT Researcher](https://gptr.dev/) | | ✓ | | | | | | | |
 | [PICO Portal](https://picoportal.org/) | | ✓ | | | | | | | |
+| [SurveyX](https://surveyx.cn/list) | | ✓ | | | | | | | |
 | [Scinence42:Dora](https://pharma.ai/dora) | | ✓ | | | | | ✓ | | |
 | [STORM](https://storm.genie.stanford.edu/) | | ✓ | | | | | ✓ | | |
 | [ChatDOC](https://chatdoc.com/) | | ✓ | | | | | | | ✓ |
