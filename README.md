@@ -45,7 +45,7 @@ This repository contains the resources for paper **_From Hypothesis to Publicati
 ![taxonomy](figure/taxonomy.png)
 
 
-For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424).
+For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424). We will update the new papers on arXiv cs.CL every Monday!
 
 
 ## 🎉 Updates
