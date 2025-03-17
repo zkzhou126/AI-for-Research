@@ -92,19 +92,21 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Artificial intelligence to support publishing and peer review: A summary and review**, Learned Publishing 2024, [[paper](https://doi.org/10.1002/leap.1570)]
 - **Large language models for scientific synthesis, inference and explanation**, arXiv.2310.07984, [[paper](https://doi.org/10.48550/arXiv.2310.07984)]
 - **A comprehensive survey of scientific large language models and their applications in scientific discovery**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.498)]
+- **Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions**, arXiv.2503.08979, [[paper](https://arxiv.org/abs/2503.08979)]
 
 
 ### Hypothesis Formulation
 
 ![HypothesisFormulation](figure/HypothesisFormulation.png)
-#### Research Paper Recommendation
+#### Knowledge Synthesis
+##### Research Paper Recommendation
 - **From Who You Know to What You Read: Augmenting Scientific Recommendations with Implicit Social Networks**, CHI 2022, [[paper](https://doi.org/10.1145/3491102.3517470)]
 - **Comlittee: Literature discovery with personal elected author committees**, CHI 2023, [[paper](https://doi.org/10.1145/3544548.3581371)]
 - **ArZiGo: A recommendation system for scientific articles**, Information Systems 2024, [[paper](https://doi.org/10.1016/j.is.2024.102367)]
 - **An academic recommender system on large citation data based on clustering, graph modeling and deep learning**, Knowledge and Information Systems 2024, [[paper](https://doi.org/10.1007/s10115-024-02094-7)]
 - **Paperweaver: Enriching topical paper alerts by contextualizing recommended papers with user-collected papers**, CHI 2024, [[paper](https://doi.org/10.1145/3613904.3642196)]
 
-#### Systematic Literature Review
+##### Systematic Literature Review
 - **Multi-document scientific summarization from a knowledge graph-centric view**, COLING 2022, [[paper](https://aclanthology.org/2022.coling-1.543)]
 - **Hierarchical catalogue generation for literature review: a benchmark**, EMNLP 2023, [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.453)]
 - **Bio-sieve: exploring instruction tuning large language models for systematic review automation**, arXiv.2308.06610, [[paper](https://doi.org/10.48550/arXiv.2308.06610)]
@@ -121,6 +123,10 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs**, arXiv.2411.14199, [[paper](https://doi.org/10.48550/arXiv.2411.14199)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **SurveyX: Academic Survey Automation via Large Language Models**, arXiv.2502.14776,[[paper](https://arxiv.org/abs/2502.14776)]
+
+##### Other Works
+- **What's In Your Field? Mapping Scientific Research with Knowledge Graphs and Large Language Models**, arXiv.2503.09894, [[paper](https://arxiv.org/abs/2503.09894)]
+
 
 #### Hypothesis Generation
 - **Literature based discovery: models, methods, and trends**, Journal of biomedical informatics 2017, [[paper](https://doi.org/10.1016/j.jbi.2017.08.011)]
@@ -152,6 +158,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
 - **Towards an AI co-scientist**, arXiv.2502.18864,[[paper](https://arxiv.org/pdf/2502.18864)]
+- **Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**, arXiv.2503.08549, [[paper](https://arxiv.org/abs/2503.08549)]
 
 ### Hypothesis Validation
 
@@ -282,6 +289,8 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts**, arXiv.2402.15589, [[paper](https://doi.org/10.48550/arXiv.2402.15589)]
 - **PeerArg: Argumentative Peer Review with LLMs**, arXiv.2409.16813, [[paper](https://doi.org/10.48550/arXiv.2409.16813)]
 - **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
+- **ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews**, arXiv.2503.08506, [[paper](https://arxiv.org/abs/2503.08506)]
+- **DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**, arXiv.2503.08569, [[paper](https://arxiv.org/abs/2503.08569)]
 
 
 ## 💯 Benchmarks
@@ -409,6 +418,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 | [Sider](https://sider.ai/) | | ✓ | | | | | ✓ | | ✓ |
 | [Quillbot](https://quillbot.com/) | | ✓ | | | | | ✓ | ✓ | ✓ |
 | [Scholar AI](https://scholarai.io/) | | ✓ | | ✓ | | ✓ | ✓ | ✓ | ✓ |
+| [AI-Researcher](https://github.com/HKUDS/AI-Researcher) | | ✓ | ✓ |  | | ✓ | ✓ |  |  |
 | [AI Scientist](https://sakana.ai/ai-scientist/) | | | ✓ | | | ✓ | ✓ | ✓ | |
 | [Isabelle](https://isabelle.in.tum.de/) | | | | | ✓ | | | | |
 | [LeanCopilot](https://github.com/lean-dojo/LeanCopilot) | | | | | ✓ | | | | |
