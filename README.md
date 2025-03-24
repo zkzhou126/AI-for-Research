@@ -123,6 +123,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs**, arXiv.2411.14199, [[paper](https://doi.org/10.48550/arXiv.2411.14199)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **SurveyX: Academic Survey Automation via Large Language Models**, arXiv.2502.14776,[[paper](https://arxiv.org/abs/2502.14776)]
+- **LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles limitations**, JCDL 2024,[[paper](https://www.arxiv.org/abs/2503.10658)]
 
 ##### Other Works
 - **What's In Your Field? Mapping Scientific Research with Knowledge Graphs and Large Language Models**, arXiv.2503.09894, [[paper](https://arxiv.org/abs/2503.09894)]
@@ -188,6 +189,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Can Large Language Models Detect Misinformation in Scientific News Reporting?**, arXiv.2402.14268, [[paper](https://doi.org/10.48550/arXiv.2402.14268)]
 - **Enhancing natural language inference performance with knowledge graph for COVID-19 automated fact-checking in Indonesian language**, arXiv.2409.00061, [[paper](https://doi.org/10.48550/arXiv.2409.00061)]
 - **Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs**, arXiv.2410.15135, [[paper](https://doi.org/10.48550/arXiv.2410.15135)]
+- **Optimizing Decomposition for Optimal Claim Verification**, arXiv.2503.15354, [[paper](https://arxiv.org/abs/2503.15354)]
 
 #### Theorem Proving
 - **Generative language modeling for automated theorem proving**, arXiv.2009.03393, [[paper](https://arxiv.org/abs/2009.03393)]
@@ -204,6 +206,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Mustard: Mastering uniform synthesis of theorem and proof data**, ICLR 2024, [[paper](https://openreview.net/forum?id=8xliOUg9EW)]
 - **Deepseek-prover: Advancing theorem proving in llms through large-scale synthetic data**, arXiv.2405.14333, [[paper](https://doi.org/10.48550/arXiv.2405.14333)]
 - **Towards large language models as copilots for theorem proving in lean**, arXiv.2404.12534, [[paper](https://doi.org/10.48550/arXiv.2404.12534)]
+- **Automating Mathematical Proof Generation Using Large Language Model Agents and Knowledge Graphs**, arXiv.2503.11657,[[paper](https://arxiv.org/abs/2503.11657)]
 
 #### Experiment Validation
 - **Autonomous chemical research with large language models**, Nature 2023 [[paper](https://doi.org/10.1038/s41586-023-06792-0)]
@@ -260,6 +263,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Autonomous LLM-Driven Research—from Data to Human-Verifiable Research Papers**, arXiv.2404.17605, [[paper](https://doi.org/10.48550/arXiv.2404.17605)]
 - **Step-Back Profiling: Distilling User History for Personalized Scientific Writing**, arXiv.2406.14275, [[paper](https://doi.org/10.48550/arXiv.2406.14275)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
+- **CorpusStudio: Surfacing Emergent Patterns in a Corpus of Prior Work while Writing**, ACM CHI 2025,[[paper](https://arxiv.org/abs/2503.12436)]
 
 
 #### Peer Review
@@ -291,6 +295,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **ResearchTown: Simulator of Human Research Community**, arXiv.2412.17767,[[paper](https://doi.org/10.48550/arXiv.2412.17767)]
 - **ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews**, arXiv.2503.08506, [[paper](https://arxiv.org/abs/2503.08506)]
 - **DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**, arXiv.2503.08569, [[paper](https://arxiv.org/abs/2503.08569)]
+- **Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations**, arXiv.2503.13857,[[paper](https://arxiv.org/abs/2503.13857)]
 
 
 ## 💯 Benchmarks
@@ -318,6 +323,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Can Large Language Models Unlock Novel Scientific Research Ideas?**, arXiv.2409.06185, [[paper](https://doi.org/10.48550/arXiv.2409.06185)]
 - **IdeaBench: Benchmarking Large Language Models for Research Idea Generation**, arXiv.2411.02429, [[paper](https://doi.org/10.48550/arXiv.2411.02429)]
 - **LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Context**, arXiv.2412.17596, [[paper](https://doi.org/10.48550/arXiv.2412.17596)]
+- **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**, arXiv.2503.13399,[[paper](https://arxiv.org/abs/2503.13399)]
 
 ### Scientific Claim Verification
 - **FEVER: a Large-scale Dataset for Fact Extraction and VERification**, NAACL-HLT 2018, [[paper]({https://doi.org/10.18653/v1/n18-1074)]
@@ -350,6 +356,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **LAB-Bench: Measuring Capabilities of Language Models for Biology Research**, arXiv.2407.10362, [[paper](https://doi.org/10.48550/arXiv.2407.10362)]
 - **CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**, arXiv.2409.11363, [[paper](https://doi.org/10.48550/arXiv.2409.11363)]
 - **AAAR-1.0: Assessing AI's Potential to Assist Research**, arXiv.2410.22394, [[paper](https://doi.org/10.48550/arXiv.2410.22394)]
+- **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**, arXiv.2503.13399,[[paper](https://arxiv.org/abs/2503.13399)]
 
 ### Manuscript Writing
 - **The ACL anthology network corpus**, Language Resources and Evaluation 2013, [[paper](https://doi.org/10.1007/s10579-012-9211-2)]
@@ -375,6 +382,9 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Scientific opinion summarization: Paper meta-review generation dataset, methods, and evaluation**, IJCAI 2024, [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9536-9_2#citeas)]
 - **ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.377)]
 - **Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions**, arXiv.2406.05688, [[paper](https://doi.org/10.48550/arXiv.2406.05688)]
+
+### Others
+- **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning**, ICLR 2025, [[paper](https://www.arxiv.org/abs/2503.13517)]
 
 
 
