@@ -60,12 +60,12 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ### Backgrounds
 - **Could AI help you to write your next paper?** Nature 2022, [[paper](https://www.nature.com/articles/d41586-022-03479-w)]
-- **Algorithmic ghost in the research shell: Large language models and academic knowledge creation in management research**, arXiv.2303.07304, [[paper]({https://doi.org/10.48550/arXiv.2303.07304)]
-- **Scientists' Perspectives on the Potential for Generative AI in their Fields**, arXiv.2304.01420, [[paper]({https://doi.org/10.48550/arXiv.2304.01420)]
+- **Algorithmic ghost in the research shell: Large language models and academic knowledge creation in management research**, arXiv.2303.07304, [[paper](https://doi.org/10.48550/arXiv.2303.07304)]
+- **Scientists' Perspectives on the Potential for Generative AI in their Fields**, arXiv.2304.01420, [[paper](https://doi.org/10.48550/arXiv.2304.01420)]
 - **Friend or foe? Exploring the implications of large language models on the science system**, arXiv.2306.09928, [[paper](https://doi.org/10.48550/arXiv.2306.09928)]
 - **An Interdisciplinary Outlook on Large Language Models for Scientific Research**, arXiv.2311.04929 [[paper](https://doi.org/10.48550/arXiv.2311.04929)]
 - **Artificial intelligence and illusions of understanding in scientific research**, Nature 2024, [[paper](https://www.nature.com/articles/s41586-024-07146-0)]
-- **Monitoring ai-modified content at scale: A case study on the impact of chatgpt on ai conference peer reviews**, ICML 2024,  [[paper](https://openreview.net/forum?id=bX3J7ho18S)]
+- **Monitoring ai-modified content at scale: A case study on the impact of chatgpt on ai conference peer reviews**, ICML 2024, [[paper](https://openreview.net/forum?id=bX3J7ho18S)]
 - **Mapping the increasing use of LLMs in scientific papers**, arXiv.2404.01268, [[paper](https://doi.org/10.48550/arXiv.2404.01268)]
 - **LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions**, arXiv.2411.05025, [[paper](https://doi.org/10.48550/arXiv.2411.05025)]
 
@@ -124,6 +124,8 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **SurveyX: Academic Survey Automation via Large Language Models**, arXiv.2502.14776,[[paper](https://arxiv.org/abs/2502.14776)]
 - **LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles limitations**, JCDL 2024,[[paper](https://www.arxiv.org/abs/2503.10658)]
+- **Highlighting Case Studies in LLM Literature Review of Interdisciplinary System Science**, arXiv.2503.16515, [[paper](https://www.arxiv.org/abs/2503.16515)]
+
 
 ##### Other Works
 - **What's In Your Field? Mapping Scientific Research with Knowledge Graphs and Large Language Models**, arXiv.2503.09894, [[paper](https://arxiv.org/abs/2503.09894)]
@@ -160,6 +162,10 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
 - **Towards an AI co-scientist**, arXiv.2502.18864,[[paper](https://arxiv.org/pdf/2502.18864)]
 - **Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**, arXiv.2503.08549, [[paper](https://arxiv.org/abs/2503.08549)]
+- **AgentRxiv: Towards Collaborative Autonomous Research**, arXiv.2503.18102,[[paper](https://arxiv.org/abs/2503.18102)]
+- **Exploring Topic Trends in COVID-19 Research Literature using Non-Negative Matrix Factorization**, arXiv.2503.18182,[[paper](https://arxiv.org/abs/2503.18182)]
+- **Iterative Hypothesis Generation for Scientific Discovery with Monte Carlo Nash Equilibrium Self-Refining Trees**, arXiv.2503.19309, [[paper](https://arxiv.org/abs/2503.19309)]
+- **SCI-IDEA: Context-Aware Scientific Ideation Using Token and Sentence Embeddings**, arXiv.2503.19257,[[paper](https://arxiv.org/abs/2503.19257)]
 
 ### Hypothesis Validation
 
@@ -190,6 +196,13 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Enhancing natural language inference performance with knowledge graph for COVID-19 automated fact-checking in Indonesian language**, arXiv.2409.00061, [[paper](https://doi.org/10.48550/arXiv.2409.00061)]
 - **Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs**, arXiv.2410.15135, [[paper](https://doi.org/10.48550/arXiv.2410.15135)]
 - **Optimizing Decomposition for Optimal Claim Verification**, arXiv.2503.15354, [[paper](https://arxiv.org/abs/2503.15354)]
+- **SciClaims: An End-to-End Generative System for Biomedical Claim Analysis**, arXiv.2503.18526, [[paper](https://arxiv.org/abs/2503.18526)]
+- **Can LLMs Automate Fact-Checking Article Writing?**, arXiv.2503.17684
+, [[paper](https://arxiv.org/abs/2503.17684)]
+- **CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**, arXiv.2503.21717, [[paper](https://arxiv.org/abs/2503.21717)]
+- **Measuring and Analyzing Subjective Uncertainty in Scientific Communications**, arXiv.2503.21114, [[paper](https://arxiv.org/abs/2503.21114)]
+
+
 
 #### Theorem Proving
 - **Generative language modeling for automated theorem proving**, arXiv.2009.03393, [[paper](https://arxiv.org/abs/2009.03393)]
@@ -264,6 +277,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Step-Back Profiling: Distilling User History for Personalized Scientific Writing**, arXiv.2406.14275, [[paper](https://doi.org/10.48550/arXiv.2406.14275)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **CorpusStudio: Surfacing Emergent Patterns in a Corpus of Prior Work while Writing**, ACM CHI 2025,[[paper](https://arxiv.org/abs/2503.12436)]
+- **FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article**, arXiv.2503.16561, [[paper](https://arxiv.org/abs/2503.16561)]
 
 
 #### Peer Review
@@ -324,6 +338,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **IdeaBench: Benchmarking Large Language Models for Research Idea Generation**, arXiv.2411.02429, [[paper](https://doi.org/10.48550/arXiv.2411.02429)]
 - **LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Context**, arXiv.2412.17596, [[paper](https://doi.org/10.48550/arXiv.2412.17596)]
 - **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**, arXiv.2503.13399,[[paper](https://arxiv.org/abs/2503.13399)]
+- **ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition**, arXiv.2503.21248, [[paper](https://arxiv.org/abs/2503.21248)]
 
 ### Scientific Claim Verification
 - **FEVER: a Large-scale Dataset for Fact Extraction and VERification**, NAACL-HLT 2018, [[paper]({https://doi.org/10.18653/v1/n18-1074)]
@@ -385,6 +400,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ### Others
 - **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning**, ICLR 2025, [[paper](https://www.arxiv.org/abs/2503.13517)]
+- **MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers**, arXiv.2503.16856,[[paper](https://arxiv.org/abs/2503.16856)]
 
 
 
