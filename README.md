@@ -93,6 +93,12 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Large language models for scientific synthesis, inference and explanation**, arXiv.2310.07984, [[paper](https://doi.org/10.48550/arXiv.2310.07984)]
 - **A comprehensive survey of scientific large language models and their applications in scientific discovery**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.498)]
 - **Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions**, arXiv.2503.08979, [[paper](https://arxiv.org/abs/2503.08979)]
+- **A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models**, arXiv.2504.05496, [[paper](https://arxiv.org/abs/2504.05496)]
+
+
+
+### Integration of Diverse Research Tasks
+- **Scaling Laws of Scientific Discovery with AI and Robot Scientists**, arXiv.2503.22444,[[paper](https://arxiv.org/abs/2503.22444)]
 
 
 ### Hypothesis Formulation
@@ -105,6 +111,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **ArZiGo: A recommendation system for scientific articles**, Information Systems 2024, [[paper](https://doi.org/10.1016/j.is.2024.102367)]
 - **An academic recommender system on large citation data based on clustering, graph modeling and deep learning**, Knowledge and Information Systems 2024, [[paper](https://doi.org/10.1007/s10115-024-02094-7)]
 - **Paperweaver: Enriching topical paper alerts by contextualizing recommended papers with user-collected papers**, CHI 2024, [[paper](https://doi.org/10.1145/3613904.3642196)]
+- **Scholar Inbox: Personalized Paper Recommendations for Scientists**, arXiv.2504.08385, [[paper](https://arxiv.org/abs/2504.08385)]
 
 ##### Systematic Literature Review
 - **Multi-document scientific summarization from a knowledge graph-centric view**, COLING 2022, [[paper](https://aclanthology.org/2022.coling-1.543)]
@@ -125,6 +132,12 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **SurveyX: Academic Survey Automation via Large Language Models**, arXiv.2502.14776,[[paper](https://arxiv.org/abs/2502.14776)]
 - **LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles limitations**, JCDL 2024,[[paper](https://www.arxiv.org/abs/2503.10658)]
 - **Highlighting Case Studies in LLM Literature Review of Interdisciplinary System Science**, arXiv.2503.16515, [[paper](https://www.arxiv.org/abs/2503.16515)]
+- **Generalization Bias in Large Language Model Summarization of Scientific Research**, arXiv.2504.00025,[[paper](https://arxiv.org/abs/2504.00025)]
+- **Identifying Aspects in Peer Reviews**, arXiv.2504.06910, [[paper](https://arxiv.org/abs/2504.06910)]
+- **Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol**, arXiv.2504.10284, [[paper](https://arxiv.org/abs/2504.10284)]
+- **Ai2 Scholar QA: Organized Literature Synthesis with Attribution**, arXiv.2504.10861, [[paper](https://arxiv.org/abs/2504.10861)]
+- **Deep literature reviews: an application of fine-tuned language models to migration research**, arXiv.2504.13685, [[paper](https://www.arxiv.org/abs/2504.13685)]
+- **Science Hierarchography: Hierarchical Organization of Science Literature**, arXiv.2504.13834, [[paper](https://arxiv.org/abs/2504.13834)]
 
 
 ##### Other Works
@@ -166,6 +179,12 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Exploring Topic Trends in COVID-19 Research Literature using Non-Negative Matrix Factorization**, arXiv.2503.18182,[[paper](https://arxiv.org/abs/2503.18182)]
 - **Iterative Hypothesis Generation for Scientific Discovery with Monte Carlo Nash Equilibrium Self-Refining Trees**, arXiv.2503.19309, [[paper](https://arxiv.org/abs/2503.19309)]
 - **SCI-IDEA: Context-Aware Scientific Ideation Using Token and Sentence Embeddings**, arXiv.2503.19257,[[paper](https://arxiv.org/abs/2503.19257)]
+- **CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation**, arXiv.2503.22708,[[paper](https://arxiv.org/abs/2503.22708)]
+- **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**, arXiv.2504.01911, [[paper](https://arxiv.org/abs/2504.01911)]
+- **The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search**, arXiv.2504.08066, [[paper](https://arxiv.org/abs/2504.08066)]
+- **Reduction of Supervision for Biomedical Knowledge Discovery**, arXiv.2504.09582, [[paper](https://arxiv.org/abs/2504.09582)]
+- **Sparks of Science: Hypothesis Generation Using Structured Paper Data**, arXiv.2504.12976, [[paper](https://arxiv.org/abs/2504.12976)]
+- **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**, arXiv.2504.16728, [[paper](https://arxiv.org/abs/2504.16728)]
 
 ### Hypothesis Validation
 
@@ -220,6 +239,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Deepseek-prover: Advancing theorem proving in llms through large-scale synthetic data**, arXiv.2405.14333, [[paper](https://doi.org/10.48550/arXiv.2405.14333)]
 - **Towards large language models as copilots for theorem proving in lean**, arXiv.2404.12534, [[paper](https://doi.org/10.48550/arXiv.2404.12534)]
 - **Automating Mathematical Proof Generation Using Large Language Model Agents and Knowledge Graphs**, arXiv.2503.11657,[[paper](https://arxiv.org/abs/2503.11657)]
+- **LogicTree: Structured Proof Exploration for Coherent and Rigorous Logical Reasoning with Large Language Models**, arXiv.2504.14089, [[paper](https://arxiv.org/abs/2504.14089)]
 
 #### Experiment Validation
 - **Autonomous chemical research with large language models**, Nature 2023 [[paper](https://doi.org/10.1038/s41586-023-06792-0)]
@@ -243,6 +263,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **AAAR-1.0: Assessing AI's Potential to Assist Research**, arXiv.2410.22394, [[paper](https://doi.org/10.48550/arXiv.2410.22394)]
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
+- **Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning**, arXiv.2504.17192, [[paper](https://arxiv.org/abs/2504.17192)]
 
 ### Manuscript Publication
 ![ManuscriptPublication](figure/ManuscriptPublication.png)
@@ -278,6 +299,9 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **CorpusStudio: Surfacing Emergent Patterns in a Corpus of Prior Work while Writing**, ACM CHI 2025,[[paper](https://arxiv.org/abs/2503.12436)]
 - **FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article**, arXiv.2503.16561, [[paper](https://arxiv.org/abs/2503.16561)]
+- **ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations**, arXiv.2504.00824,[[paper](https://arxiv.org/abs/2504.00824)]
+- **Divergent LLM Adoption and Heterogeneous Convergence Paths in Research Writing**, arXiv.2504.13629, [[paper](https://arxiv.org/abs/2504.13629)]
+- **CiteFix: Enhancing RAG Accuracy Through Post-Processing Citation Correction**, arXiv.2504.15629, [[paper](https://arxiv.org/abs/2504.15629)]
 
 
 #### Peer Review
@@ -310,6 +334,8 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews**, arXiv.2503.08506, [[paper](https://arxiv.org/abs/2503.08506)]
 - **DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**, arXiv.2503.08569, [[paper](https://arxiv.org/abs/2503.08569)]
 - **Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations**, arXiv.2503.13857,[[paper](https://arxiv.org/abs/2503.13857)]
+- **Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025**, arXiv.2504.09737, [[paper](https://arxiv.org/abs/2504.09737)]
+- **LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**, arXiv.2504.11042, [[paper](https://arxiv.org/abs/2504.11042)]
 
 
 ## 💯 Benchmarks
@@ -339,6 +365,11 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Context**, arXiv.2412.17596, [[paper](https://doi.org/10.48550/arXiv.2412.17596)]
 - **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**, arXiv.2503.13399,[[paper](https://arxiv.org/abs/2503.13399)]
 - **ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition**, arXiv.2503.21248, [[paper](https://arxiv.org/abs/2503.21248)]
+- **DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**, arXiv.2504.03160, [[paper](https://arxiv.org/abs/2504.03160)]
+- **LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**, arXiv.2504.10415, [[paper](https://arxiv.org/abs/2504.10415)]
+- **ArxivBench: Can LLMs Assist Researchers in Conducting Research?**, arXiv.2504.10496, [[paper](https://arxiv.org/abs/2504.10496)]
+- **HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation**, arXiv.2504.11524, [[paper](https://arxiv.org/abs/2504.11524)]
+- **AI Idea Bench 2025: AI Research Idea Generation Benchmark**, arXiv.2504.14191, [[paper](https://arxiv.org/abs/2504.14191)]
 
 ### Scientific Claim Verification
 - **FEVER: a Large-scale Dataset for Fact Extraction and VERification**, NAACL-HLT 2018, [[paper]({https://doi.org/10.18653/v1/n18-1074)]
@@ -372,6 +403,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**, arXiv.2409.11363, [[paper](https://doi.org/10.48550/arXiv.2409.11363)]
 - **AAAR-1.0: Assessing AI's Potential to Assist Research**, arXiv.2410.22394, [[paper](https://doi.org/10.48550/arXiv.2410.22394)]
 - **MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**, arXiv.2503.13399,[[paper](https://arxiv.org/abs/2503.13399)]
+- **SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers**, arXiv.2504.00255, [[paper](https://arxiv.org/abs/2504.00255)]
 
 ### Manuscript Writing
 - **The ACL anthology network corpus**, Language Resources and Evaluation 2013, [[paper](https://doi.org/10.1007/s10579-012-9211-2)]
@@ -401,6 +433,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 ### Others
 - **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning**, ICLR 2025, [[paper](https://www.arxiv.org/abs/2503.13517)]
 - **MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers**, arXiv.2503.16856,[[paper](https://arxiv.org/abs/2503.16856)]
+- **PaperBench: Evaluating AI's Ability to Replicate AI Research**, arXiv.2504.01848,[[paper](https://arxiv.org/abs/2504.01848)]
 
 
 
