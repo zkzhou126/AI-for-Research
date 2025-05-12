@@ -94,6 +94,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **A comprehensive survey of scientific large language models and their applications in scientific discovery**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.498)]
 - **Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions**, arXiv.2503.08979, [[paper](https://arxiv.org/abs/2503.08979)]
 - **A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models**, arXiv.2504.05496, [[paper](https://arxiv.org/abs/2504.05496)]
+- **Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions**, arXiv.2505.04651, [[paper](https://arxiv.org/abs/2505.04651)]
 
 
 
@@ -138,6 +139,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Ai2 Scholar QA: Organized Literature Synthesis with Attribution**, arXiv.2504.10861, [[paper](https://arxiv.org/abs/2504.10861)]
 - **Deep literature reviews: an application of fine-tuned language models to migration research**, arXiv.2504.13685, [[paper](https://www.arxiv.org/abs/2504.13685)]
 - **Science Hierarchography: Hierarchical Organization of Science Literature**, arXiv.2504.13834, [[paper](https://arxiv.org/abs/2504.13834)]
+- **Towards Artificial Intelligence Research Assistant for Expert-Involved Learning**, arXiv.2505.04638, [[paper](https://arxiv.org/abs/2505.04638)]
 
 
 ##### Other Works
@@ -185,6 +187,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Reduction of Supervision for Biomedical Knowledge Discovery**, arXiv.2504.09582, [[paper](https://arxiv.org/abs/2504.09582)]
 - **Sparks of Science: Hypothesis Generation Using Structured Paper Data**, arXiv.2504.12976, [[paper](https://arxiv.org/abs/2504.12976)]
 - **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**, arXiv.2504.16728, [[paper](https://arxiv.org/abs/2504.16728)]
+- **FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights**, arXiv.2505.04649, [[paper](https://arxiv.org/abs/2505.04649)]
 
 ### Hypothesis Validation
 
@@ -223,6 +226,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 
 
+
 #### Theorem Proving
 - **Generative language modeling for automated theorem proving**, arXiv.2009.03393, [[paper](https://arxiv.org/abs/2009.03393)]
 - **HyperTree Proof Search for Neural Theorem Proving**, NeurIPS 2022, [[paper](http://papers.nips.cc/paper\_files/paper/2022/hash/a8901c5e85fb8e1823bbf0f755053672-Abstract-Conference.html)]
@@ -240,6 +244,8 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Towards large language models as copilots for theorem proving in lean**, arXiv.2404.12534, [[paper](https://doi.org/10.48550/arXiv.2404.12534)]
 - **Automating Mathematical Proof Generation Using Large Language Model Agents and Knowledge Graphs**, arXiv.2503.11657,[[paper](https://arxiv.org/abs/2503.11657)]
 - **LogicTree: Structured Proof Exploration for Coherent and Rigorous Logical Reasoning with Large Language Models**, arXiv.2504.14089, [[paper](https://arxiv.org/abs/2504.14089)]
+- **DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**, arXiv.2504.21801, [[paper](https://arxiv.org/abs/2504.21801)]
+- **Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving**, arXiv.2505.04528, [[paper](https://arxiv.org/abs/2505.04528)]
 
 #### Experiment Validation
 - **Autonomous chemical research with large language models**, Nature 2023 [[paper](https://doi.org/10.1038/s41586-023-06792-0)]
@@ -264,6 +270,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**, arXiv.2501.03916, [[paper](https://doi.org/10.48550/arXiv.2501.03916)]
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning**, arXiv.2504.17192, [[paper](https://arxiv.org/abs/2504.17192)]
+- **ResearchCodeAgent: An LLM Multi-Agent System for Automated Codification of Research Methodologies**, AAAI 2025, [[paper](https://arxiv.org/abs/2504.20117)]
 
 ### Manuscript Publication
 ![ManuscriptPublication](figure/ManuscriptPublication.png)
@@ -385,6 +392,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **HealthFC: Verifying Health Claims with Evidence-Based Medical Fact-Checking**, LREC/COLING 2024, [[paper](https://aclanthology.org/2024.lrec-main.709)]
 - **What Makes Medical Claims (Un)Verifiable? Analyzing Entity and Relation Properties for Fact Verification**, EACL 2024, [[paper](https://aclanthology.org/2024.eacl-long.124)]
 - **Sciriff: A resource to enhance language model instruction-following over scientific literature**, arXiv.2406.07835, [[paper](https://doi.org/10.48550/arXiv.2406.07835)]
+- - **EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers**, arXiv.2504.18736,[[paper](https://arxiv.org/abs/2504.18736)]
 
 ### Theorem Proving
 - **Learning to Prove Theorems via Interacting with Proof Assistants**, ICML 2019, [[paper](http://proceedings.mlr.press/v97/yang19a.html)]
