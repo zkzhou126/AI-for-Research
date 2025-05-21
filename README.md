@@ -45,7 +45,7 @@ This repository contains the resources for paper **_From Hypothesis to Publicati
 ![taxonomy](figure/taxonomy.png)
 
 
-For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424). We will update the new papers on arXiv cs.CL every Monday!
+For more details, please refer to the paper: [From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems](https://arxiv.org/abs/2503.01424). 
 
 
 ## 🎉 Updates
@@ -468,6 +468,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 | [SciSpace](https://typeset.io/) | ✓ | ✓ | | | | | ✓ | ✓ | ✓ |
 | [AskYourPDF](https://askyourpdf.com) | ✓ | ✓ | | ✓ | | | ✓ | ✓ | ✓ |
 | [Iflytek](https://sciai.las.ac.cn/) | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ | | ✓ |
+| [FutureHouse](https://platform.futurehouse.org/) | ✓ | ✓ | ✓ |  |  | ✓ |  | |  |
 | [Enago Read](https://www.read.enago.com/) | ✓ | ✓ | ✓ | ✓ | ✓ | | | | ✓ |
 | [Aminer](https://www.aminer.cn/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | | ✓ |
 | [OpenResearcher](https://github.com/GAIR-NLP/OpenResearcher) | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ | ✓ |
