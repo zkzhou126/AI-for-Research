@@ -271,6 +271,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv.2501.04227, [[paper](https://arxiv.org/abs/2501.04227)]
 - **Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning**, arXiv.2504.17192, [[paper](https://arxiv.org/abs/2504.17192)]
 - **ResearchCodeAgent: An LLM Multi-Agent System for Automated Codification of Research Methodologies**, AAAI 2025, [[paper](https://arxiv.org/abs/2504.20117)]
+- **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, arxiv.2502.16069, [[paper](https://arxiv.org/abs/2502.16069)]
 
 ### Manuscript Publication
 ![ManuscriptPublication](figure/ManuscriptPublication.png)
