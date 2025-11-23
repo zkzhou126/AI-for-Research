@@ -34,7 +34,7 @@ From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Sup
 
 
 <div align="center">
-    <a href="https://arxiv.org/abs/2503.01424"><img src="https://img.shields.io/badge/arXiv-2503.01424-b31b1b.svg" alt="Paper"></a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.631/"><img src="https://img.shields.io/badge/EMNLP 2025-b31b1b.svg" alt="Paper"></a>
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zkzhou126/AI-for-Research?color=blue" alt="Github"></a>
     <a href="https://github.com/zkzhou126/AI-for-Research/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zkzhou126/AI-for-Research?color=green"> </a>
 </div>
@@ -49,7 +49,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 
 ## 🎉 Updates
-
+- This paper is accepted to EMNLP 2025, [camera ready version](https://aclanthology.org/2025.findings-emnlp.631/) released.
 - 2025/03/03 Paper is available on [arxiv](https://arxiv.org/abs/2503.01424).
 - 2025/03/02 We created this reading list repository.
 
