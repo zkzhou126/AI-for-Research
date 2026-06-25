@@ -72,6 +72,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ### Surveys
 
+- **What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification**, ResearchGate.2026, [[paper](https://www.researchgate.net/publication/406952713_What's_Missing_in_Autonomous_Research_A_Systematization_of_SystemsBenchmarks_and_Verification)]
 - **LLM4SR: A Survey on Large Language Models for Scientific Research**, arXiv.2501.04306, [[paper](https://doi.org/10.48550/arXiv.2501.04306)]
 - **Paper recommender systems: a literature survey**, International Journal on Digital Libraries 2016, [[paper](https://link.springer.com/article/10.1007/s00799-015-0156-0)]
 - **Scientific paper recommendation: A survey**, IEEE Access 2019, [[paper](https://doi.org/10.1109/ACCESS.2018.2890388)]
