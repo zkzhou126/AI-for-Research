@@ -273,6 +273,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning**, arXiv.2504.17192, [[paper](https://arxiv.org/abs/2504.17192)]
 - **ResearchCodeAgent: An LLM Multi-Agent System for Automated Codification of Research Methodologies**, AAAI 2025, [[paper](https://arxiv.org/abs/2504.20117)]
 - **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, arxiv.2502.16069, [[paper](https://arxiv.org/abs/2502.16069)]
+- **An AI Co-Data-Scientist for Prioritizing Candidate Biomarkers from Wearable Sensor Data**, arXiv.2604.14615, [[paper](https://arxiv.org/abs/2604.14615)]
 
 ### Manuscript Publication
 ![ManuscriptPublication](figure/ManuscriptPublication.png)
@@ -344,7 +345,6 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**, arXiv.2503.08569, [[paper](https://arxiv.org/abs/2503.08569)]
 - **Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations**, arXiv.2503.13857,[[paper](https://arxiv.org/abs/2503.13857)]
 - **Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025**, arXiv.2504.09737, [[paper](https://arxiv.org/abs/2504.09737)]
-- **LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**, arXiv.2504.11042, [[paper](https://arxiv.org/abs/2504.11042)]
 
 
 ## 💯 Benchmarks
@@ -439,6 +439,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Scientific opinion summarization: Paper meta-review generation dataset, methods, and evaluation**, IJCAI 2024, [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9536-9_2#citeas)]
 - **ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews**, ACL 2024, [[paper](https://doi.org/10.18653/v1/2024.acl-long.377)]
 - **Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions**, arXiv.2406.05688, [[paper](https://doi.org/10.48550/arXiv.2406.05688)]
+- **LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**, arXiv.2504.11042, [[paper](https://arxiv.org/abs/2504.11042)]
 
 ### Others
 - **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning**, ICLR 2025, [[paper](https://www.arxiv.org/abs/2503.13517)]
@@ -501,6 +502,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 | [Textero.ai](https://textero.ai/) | | | | | | | ✓ | | |
 | [Wordvice.AI](https://wordvice.ai/) | | | | | | | ✓ | | |
 | [Writesonic](https://writesonic.com/) | | | | | | | ✓ | | |
+| [Prism](https://openai.com/zh-Hans-CN/prism/) | | | | | | | ✓ | | |
 | [Writefull](https://x.writefull.com/) | | | | | | | ✓ | ✓ | |
 | [Covidence](https://www.covidence.org/) | | | | | | | | ✓ | |
 | [Penelope.ai](https://www.penelope.ai/) | | | | | | | | ✓ | |
