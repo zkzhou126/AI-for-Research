@@ -101,6 +101,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 
 ### Integration of Diverse Research Tasks
 - **Scaling Laws of Scientific Discovery with AI and Robot Scientists**, arXiv.2503.22444,[[paper](https://arxiv.org/abs/2503.22444)]
+- **Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy**, arXiv.2606.24177, [[paper](https://arxiv.org/abs/2606.24177)]
 
 
 ### Hypothesis Formulation
@@ -189,6 +190,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **Sparks of Science: Hypothesis Generation Using Structured Paper Data**, arXiv.2504.12976, [[paper](https://arxiv.org/abs/2504.12976)]
 - **IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**, arXiv.2504.16728, [[paper](https://arxiv.org/abs/2504.16728)]
 - **FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights**, arXiv.2505.04649, [[paper](https://arxiv.org/abs/2505.04649)]
+- **AutoSR: Automatic Symbolic Regression by Searching Research States**, arXiv.2608.16876, [[paper](https://arxiv.org/abs/2608.16876)]
 
 ### Hypothesis Validation
 
@@ -445,6 +447,7 @@ For more details, please refer to the paper: [From Hypothesis to Publication: A 
 - **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning**, ICLR 2025, [[paper](https://www.arxiv.org/abs/2503.13517)]
 - **MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers**, arXiv.2503.16856,[[paper](https://arxiv.org/abs/2503.16856)]
 - **PaperBench: Evaluating AI's Ability to Replicate AI Research**, arXiv.2504.01848,[[paper](https://arxiv.org/abs/2504.01848)]
+- **SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents**, arXiv.2610.21082, [[paper](https://arxiv.org/abs/2610.21082)]
 
 
 
